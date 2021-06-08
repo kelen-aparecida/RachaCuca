@@ -1,0 +1,30 @@
+Você pode jogar esse jogo:
+https://rachacuca.com.br/jogos/pinguins-numa-fria/
+
+Veja como eu fiz:
+suba o pinguim com cachecol azul filhote no iceberg
+suba o pinguim com cachecol azul adulto no iceberg também
+mova o iceberg para a outra margem
+desça o pinguim adulto
+mova o iceberg de volta para a outra margem
+
+suba o pinguim com cachecol verde filhote paa o iceberg
+mova o iceberg para a outra margem
+desça  pinguim com cachecol azul filhote
+mova o iceberg de volta para a outra margem
+
+suba o pinguim com cachecol verde adulto para o iceberg
+mova o iceberg para a outra margem
+desça o pinguim adulto
+mova o iceberg para a outra margem
+
+
+suba o pinguim com cachecol vermelho  filhote para o iceberg
+mova o iceberg para a outra margem
+desça  pinguim com cachecol verde  filhote
+mova o iceberg para a outra margem
+
+suba o pinguim com cachecol vermelho adulto para o iceberg
+mova o iceberg para a outra margem
+desça o pinguim adulto
+desça o pinguim filhote
